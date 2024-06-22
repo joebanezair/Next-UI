@@ -1,0 +1,285 @@
+{
+    "English":{
+        "globalTextEnglish": {
+            "Login": "Login",
+            "Signup": "Signup",
+            "CreateAccount": "Create Account",
+            "Home": "Home",
+            "AllUsers": "All Users",
+            "GetStarted":"Get started by creating an account!",
+            "Profile": "Profile",
+            "Messages": "Messages",
+            "Notifications": "Notifications",
+            "Logout": "Logout",
+            "Submit": "Submit",
+            "Cancel": "Cancel",
+            "LoginNow": "Login Now!",
+            "Edit": "Edit",
+            "Delete": "Delete",
+            "Update": "Update",
+            "Search": "Search",
+            "Settings": "Settings",
+            "Help": "Help",
+            "Username": "Username",
+            "Password": "Password",
+            "Email": "Email",
+            "ConfirmPassword": "Confirm Password",
+            "Name": "Name",
+            "Back":"Back",
+            "Send": "Send",
+            "Receive": "Receive",
+            "UtosLogo":"Officia",
+            "OffSign":"Sign-up Officia",
+            "LinkedinJoe":"https://www.linkedin.com/in/joebanezair/",
+            "LinkImage":"https://media.licdn.com/dms/image/D5603AQEeVevTgKbc3g/profile-displayphoto-shrink_800_800/0/1716178512114?e=1723680000&v=beta&t=XnLY6Z99OwYiUuasmqs4w35wqk87Q9bBqRPa5_pQFck",
+            "Phinnovatech":"https://www.linkedin.com/groups/14464668/",
+            "FBGroup":"https://www.facebook.com/groups/816460360375854/",
+            "joe":"Joe",
+            "paul":"Paul",
+            "enableLoc":"Enable Location",
+            "sponsorus":"Donate"
+        },
+        "advertisement":{
+            "skilled":"Skilled?",
+            "with":"With",
+            "getAjob":"Earn fast with or without a Skill!",
+            "withOfficia":"With Officia",
+            "weProvide":"Get Jobs and Gigs near you right now with Officia 😊"
+        },
+        "components": {
+            "login": {
+                "title": "Login",
+                "usernamePlaceholder": "Enter your username",
+                "passwordPlaceholder": "Enter your password",
+                "submitButton": "Login",
+                "forgotPasswordLink": "Forgot Password?",
+                "signupLink": "Don't have an account? Signup"
+            },
+            "signup": {
+                "title": "Signup",
+                "usernamePlaceholder": "Choose a username",
+                "passwordPlaceholder": "Choose a password",
+                "confirmPasswordPlaceholder": "Confirm your password",
+                "emailPlaceholder": "Enter your email",
+                "submitButton": "Signup",
+                "loginLink": "Already have an account? Login"
+            },
+            "createAccount": {
+                "title": "Create Account",
+                "usernamePlaceholder": "Enter your username",
+                "passwordPlaceholder": "Enter your password",
+                "confirmPasswordPlaceholder": "Confirm your password",
+                "emailPlaceholder": "Enter your email",
+                "submitButton": "Create Account",
+                "cancelButton": "Cancel"
+            },
+            "home": {
+                "welcomeMessage": "Welcome to the Home Page",
+                "description": "This is the home page of our application.",
+                "profileLink": "Go to Profile",
+                "messagesLink": "Check Messages",
+                "notificationsLink": "View Notifications",
+                "logoutButton": "Logout"
+            },
+            "allUsers": {
+                "title": "All Users",
+                "userListHeading": "List of All Users",
+                "searchPlaceholder": "Search users by name or username",
+                "searchButton": "Search"
+            },
+            "profile": {
+                "title": "Profile",
+                "editProfileButton": "Edit Profile",
+                "viewProfileButton": "View Profile",
+                "logoutButton": "Logout",
+                "usernameLabel": "Username",
+                "emailLabel": "Email",
+                "nameLabel": "Name",
+                "updateButton": "Update Profile",
+                "cancelButton": "Cancel"
+            },
+            "messages": {
+                "title": "Messages",
+                "inboxHeading": "Inbox",
+                "sentHeading": "Sent Messages",
+                "composeButton": "Compose Message",
+                "noMessagesText": "No messages found",
+                "sendMessageButton": "Send",
+                "recipientPlaceholder": "Enter recipient username",
+                "messagePlaceholder": "Enter your message",
+                "cancelButton": "Cancel"
+            },
+            "notifications": {
+                "title": "Notifications",
+                "markAllAsReadButton": "Mark All as Read",
+                "clearAllButton": "Clear All Notifications",
+                "noNotificationsText": "No notifications available"
+            },
+            "settings": {
+                "title": "Settings",
+                "accountSettings": "Account Settings",
+                "privacySettings": "Privacy Settings",
+                "notificationSettings": "Notification Settings",
+                "saveButton": "Save Settings",
+                "cancelButton": "Cancel"
+            },
+            "help": {
+                "title": "Help",
+                "faqHeading": "Frequently Asked Questions",
+                "contactSupport": "Contact Support",
+                "documentation": "Documentation",
+                "submitButton": "Submit",
+                "cancelButton": "Cancel"
+            }
+        }
+    },
+    
+    "Filipino":{
+        "globalTextFilipino": {
+            "Login": "Mag-login",
+            "Signup": "Mag-signup",
+            "CreateAccount": "Lumikha ng Account",
+            "Home": "Home",
+            "AllUsers": "Lahat ng User",
+            "Profile": "Profile",
+            "Messages": "Mga Mensahe",
+            "Notifications": "Mga Abiso",
+            "Logout": "Mag-logout",
+            "Submit": "Isumite",
+            "Cancel": "Kanselahin",
+            "Edit": "I-edit",
+            "Delete": "Burahin",
+            "Update": "I-update",
+            "Search": "Maghanap",
+            "Settings": "Mga Setting",
+            "Help": "Tulong",
+            "Username": "Username",
+            "Password": "Password",
+            "Email": "Email",
+            "ConfirmPassword": "Kumpirmahin ang Password",
+            "Name": "Pangalan",
+            "Send": "Ipadala",
+            "Receive": "Tanggapin"
+        },
+        "components": {
+            "login": {
+                "title": "Mag-login",
+                "usernamePlaceholder": "Ilagay ang iyong username",
+                "passwordPlaceholder": "Ilagay ang iyong password",
+                "submitButton": "Mag-login",
+                "forgotPasswordLink": "Nakalimutan ang Password?",
+                "signupLink": "Wala pang account? Mag-signup"
+            },
+            "signup": {
+                "title": "Mag-signup",
+                "usernamePlaceholder": "Pumili ng username",
+                "passwordPlaceholder": "Pumili ng password",
+                "confirmPasswordPlaceholder": "Kumpirmahin ang iyong password",
+                "emailPlaceholder": "Ilagay ang iyong email",
+                "submitButton": "Mag-signup",
+                "loginLink": "May account na? Mag-login"
+            },
+            "createAccount": {
+                "title": "Lumikha ng Account",
+                "usernamePlaceholder": "Ilagay ang iyong username",
+                "passwordPlaceholder": "Ilagay ang iyong password",
+                "confirmPasswordPlaceholder": "Kumpirmahin ang iyong password",
+                "emailPlaceholder": "Ilagay ang iyong email",
+                "submitButton": "Lumikha ng Account",
+                "cancelButton": "Kanselahin"
+            },
+            "home": {
+                "welcomeMessage": "Maligayang pagdating sa Home Page",
+                "description": "Ito ang home page ng aming aplikasyon.",
+                "profileLink": "Pumunta sa Profile",
+                "messagesLink": "Tingnan ang Mga Mensahe",
+                "notificationsLink": "Tingnan ang Mga Abiso",
+                "logoutButton": "Mag-logout"
+            },
+            "allUsers": {
+                "title": "Lahat ng User",
+                "userListHeading": "Listahan ng Lahat ng User",
+                "searchPlaceholder": "Maghanap ng mga user ayon sa pangalan o username",
+                "searchButton": "Maghanap"
+            },
+            "profile": {
+                "title": "Profile",
+                "editProfileButton": "I-edit ang Profile",
+                "viewProfileButton": "Tingnan ang Profile",
+                "logoutButton": "Mag-logout",
+                "usernameLabel": "Username",
+                "emailLabel": "Email",
+                "nameLabel": "Pangalan",
+                "updateButton": "I-update ang Profile",
+                "cancelButton": "Kanselahin"
+            },
+            "messages": {
+                "title": "Mga Mensahe",
+                "inboxHeading": "Inbox",
+                "sentHeading": "Mga Ipinadalang Mensahe",
+                "composeButton": "Gumawa ng Mensahe",
+                "noMessagesText": "Walang nahanap na mensahe",
+                "sendMessageButton": "Ipadala",
+                "recipientPlaceholder": "Ilagay ang username ng tatanggap",
+                "messagePlaceholder": "Ilagay ang iyong mensahe",
+                "cancelButton": "Kanselahin"
+            },
+            "notifications": {
+                "title": "Mga Abiso",
+                "markAllAsReadButton": "Markahan Lahat bilang Nabasa",
+                "clearAllButton": "Burahin Lahat ng Abiso",
+                "noNotificationsText": "Walang available na mga abiso"
+            },
+            "settings": {
+                "title": "Mga Setting",
+                "accountSettings": "Mga Setting ng Account",
+                "privacySettings": "Mga Setting ng Privacy",
+                "notificationSettings": "Mga Setting ng Abiso",
+                "saveButton": "I-save ang Mga Setting",
+                "cancelButton": "Kanselahin"
+            },
+            "help": {
+                "title": "Tulong",
+                "faqHeading": "Mga Madalas Itanong",
+                "contactSupport": "Makipag-ugnay sa Suporta",
+                "documentation": "Dokumentasyon",
+                "submitButton": "Isumite",
+                "cancelButton": "Kanselahin"
+            }
+        }
+    },
+
+    "LoginForm":{
+        "username": "user123",
+        "password": "securepassword",
+        "date": "2024-06-12",
+        "time": "14:30:00",
+        "longitude": -122.4194,
+        "latitude": 37.7749,
+        "device_id": "device-abcdef1234567890",
+        "device_type": "Desktop"
+    },
+    
+    "CreateAccount":{
+        "username": "user123",
+        "password": "securepassword",
+        "email": "user123@example.com",
+        "first_name": "John",
+        "last_name": "Doe",
+        "phone_number": "+1234567890",
+        "date_of_birth": "1990-01-01",
+        "age": 34,
+        "gender": "Male",
+        "address": "123 Main St",
+        "country": "USA",
+        "state": "California",
+        "city": "San Francisco",
+        "date": "2024-06-12",
+        "time": "14:30:00",
+        "longitude": -122.4194,
+        "latitude": 37.7749,
+        "device_id": "device-abcdef1234567890",
+        "device_type": "Desktop"
+    }
+     
+}
